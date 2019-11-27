@@ -1,0 +1,16 @@
+Index: ssm-conformity-service/pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ssm-conformity-service/pom.xml	(date 1574827666000)
++++ ssm-conformity-service/pom.xml	(date 1574852752769)
+@@ -8,7 +8,7 @@
+         <version>1.0-SNAPSHOT</version>
+     </parent>
+     <modelVersion>4.0.0</modelVersion>
+-<!--给v办公成双方都是本-->
++<!--给v办公成双方都是本ggk-->
+     <artifactId>ssm-conformity-service</artifactId>
+     <dependencies>
+         <dependency>

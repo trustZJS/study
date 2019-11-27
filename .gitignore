@@ -91,3 +91,12 @@ Temporary Items
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+ssm-conformity-controller/src/test/
+ssm-conformity-controller/web/WEB-INF/views/dept/
+ssm-conformity-dao/src/test/
+ssm-conformity-entity/src/main/resources/
+ssm-conformity-entity/src/test/
+ssm-conformity-service/src/main/resources/
+ssm-conformity-service/src/test/
+ssm-conformity-utils/src/test/
+"\347\254\2541\346\254\241\346\217\220\344\272\244.patch"

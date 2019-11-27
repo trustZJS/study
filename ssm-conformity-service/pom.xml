@@ -8,7 +8,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-<!--给v办公成双方都是本ggk-->
+<!--给v办公成双方都是本ggkgsdjkjdsasdgfh-->
     <artifactId>ssm-conformity-service</artifactId>
     <dependencies>
         <dependency>
